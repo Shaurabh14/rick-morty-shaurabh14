@@ -1,0 +1,16 @@
+.Character {
+    display: flex;
+    flex-direction: column;
+}
+
+.Character .character-image {
+    margin: auto
+}
+
+.Character-content {
+    margin-left: 2rem;
+}
+
+.Character-episode {
+    margin-top: 2rem;
+}
